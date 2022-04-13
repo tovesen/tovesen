@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tovesen
-- 👀 I’m interested in ... Golang, C, Swift, Javascript
-- 🌱 I’m currently learning ... SwiftUI
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... Golang, C, Swift, Kotlin, Javascript
+- 🌱 I’m currently learning ... Kotlin
+- 💞️ I’m looking to collaborate on ... Busy now..!
 - 📫 How to reach me ...
 
 <!---
